@@ -1,0 +1,6 @@
+{
+  "name": "DeltaShield - VirusTotal Threat Protection",
+  "description": "Chrome extension and real-time threat operations dashboard routing visited URLs and downloaded files through VirusTotal API for automatic security scanning and active threat interception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
